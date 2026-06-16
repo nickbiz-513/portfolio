@@ -1,0 +1,6 @@
+{
+  "name": "Vishnu Portfolio",
+  "description": "An ultra-optimized, high-end dark-themed single-page portfolio for Vishnu Bommakanti, featuring AI & Data Science skills, macOS-style interactive project cards, and smooth custom animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
